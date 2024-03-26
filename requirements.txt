@@ -1,0 +1,6 @@
+numpy==1.25.2
+matplotlib==3.8.2
+nilearn==0.10.3
+nibabel==5.2.1
+scikit-image==0.22.0
+pydicom==2.4.4
